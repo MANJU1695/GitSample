@@ -1,0 +1,6 @@
+2022-12-23 15:11:04,458 :CRITICAL : test_logging :Critical issue
+2022-12-23 17:23:32,615 :INFO : test_editProfile :Rahul
+2022-12-23 17:23:32,616 :INFO : test_editProfile :rahulshettyacademy.com
+2022-12-23 17:26:46,337 :INFO : test_editProfile :Rahul
+2022-12-23 17:26:46,337 :INFO : test_editProfile :rahulshettyacademy.com
+2023-01-06 15:10:24,008 :CRITICAL : pytestsDemo.test_logging :Critical issue
